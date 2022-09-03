@@ -1,5 +1,5 @@
-
-## Implement a Client Server Architecture using MySQL Database Management System
+## Step1 
+## BACKEND CONFIGURATION
 
 `sudo apt update -y`
 
