@@ -1,9 +1,10 @@
 ## Step1 
-## BACKEND CONFIGURATION
+
+## Implement a Client Server Architecture using MySQL Database Management System
 
 `sudo apt update -y`
 
-![apt update](./images/sudo-update.png)
+![apt update](./images/sudo-update.PNG)
 
 `sudo apt install mysql-server -y`
 
